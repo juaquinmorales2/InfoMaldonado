@@ -24,6 +24,7 @@ img{
     height: 300px;
     flex-wrap: wrap;
     align-items: center;
+    border-radius: 5%;
 }
 
 img:hover{
